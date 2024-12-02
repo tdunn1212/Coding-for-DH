@@ -141,3 +141,7 @@ You may try your experiment for a week, and see how you like it. I think by Satu
 
 ### Homework: Thoughts on the Python documentation website
 - Doesn't feel very accessible as a super beginner... I don't know where to start
+- I feel like W3 Schools documentation is way better
+- It feels overwhelming for me
+- I feel like having a key breakdown of syntax and iterative tools with sample code is what I need
+- Question for next week: my GitHub pages isn't working w some things but the Markdown is, what should i do (e.g. tables, comments in code blocks)
