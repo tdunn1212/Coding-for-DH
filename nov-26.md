@@ -6,14 +6,14 @@
     2. Pre-installed commands/methods
     3. Solutions/conditionals
 - Question: does python automatically select the variable type? Yes it does, you don't have to assign them
-- You can comment things out with Cmd + / or with # 
+- You can comment things out with `Cmd /` or with # 
 
 ### Variables
 - Integers: store whole numbers (and equations)
 - Floats: store decimal numbers (and equations)
 - Strings: store text in quotation marks
 - Lists: series of numbers/text
-  - Syntax is `name = ["name","name", etc.]
+  - Syntax is `name = ["name","name", etc.]`
 - you can use the type() function to check the type of your variables
 
 ### Operators
